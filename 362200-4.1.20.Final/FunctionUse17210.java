@@ -1,0 +1,6 @@
+import io.netty.handler.codec.socks.SocksCmdRequestDecoder.State;
+public class FunctionUse17210 {
+public void funcUse() {
+State state = new State();
+}
+}

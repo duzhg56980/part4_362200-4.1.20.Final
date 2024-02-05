@@ -1,0 +1,6 @@
+import io.netty.channel.oio.AbstractOioByteChannel;
+public class FunctionUse10772 {
+public void funcUse() {
+AbstractOioByteChannel abstractoiobytechannel = new AbstractOioByteChannel();
+}
+}
